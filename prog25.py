@@ -6,3 +6,4 @@ else:
     print(f"{v2} é maior que {v1}")
 print("Teste de PULL")
 print("teste de push pelo vscode")
+print("teste de push pelo vscode 2 ")
