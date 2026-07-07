@@ -5,3 +5,4 @@ if v1 > v2:
 else:
     print(f"{v2} é maior que {v1}")
 print("Teste de PULL")
+print("teste de push pelo vscode")
