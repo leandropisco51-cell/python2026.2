@@ -1,0 +1,11 @@
+linguagens = ["HTML", "CSS", "JavaScript"]
+print(f"Lista inicial: {linguagens}")
+linguagens.append("Python")
+print(f"Lista atualizada: {linguagens}")
+a=input("digite uma linguagem")
+linguagens.remove(a)
+print(f"Lista atualizada: {linguagens}")
+linguagens.sort()
+print(f"Lista atualizada: {linguagens}")
+l= len(linguagens)
+print(l)
